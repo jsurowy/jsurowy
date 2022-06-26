@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @jsurowy
 - 👀 I’m interested in IT engineering and software.
-- 🌱 I’m currently learning Java, node.js
+- 🌱 I’m currently learning Backend Development
 - 📫 How to reach me:
+-  Facebook: https://fb.com/j.surowy
 -  Discord: Entom#2137
+-  Instagram: @ugotowany2137
+-  jakub.surowy@uczen.zsk.poznan.pl
 
 <!---
 jsurowy/jsurowy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

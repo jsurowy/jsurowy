@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsurowy
 - 👀 I’m interested in IT engineering and software.
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning DevOps Engineering
 - 📫 How to reach me:
 -  Facebook: https://fb.com/j.surowy
 -  Discord: Entom#2137

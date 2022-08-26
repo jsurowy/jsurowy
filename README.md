@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jsurowy
-- 👀 I’m interested in IT engineering and software.
+- 👀 I’m interested in IT engineering and OS software.
 - 🌱 I’m currently learning DevOps Engineering
 - 📫 How to reach me:
 -  Facebook: https://fb.com/j.surowy

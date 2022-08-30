@@ -4,7 +4,6 @@
 - 📫 How to reach me:
 -  Facebook: https://fb.com/j.surowy
 -  Discord: Entom#2137
--  Instagram: @ugotowany2137
 -  jakub.surowy@uczen.zsk.poznan.pl
 
 <!---

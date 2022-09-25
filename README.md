@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DevOps Engineering
 - 📫 How to reach me:
 -  Facebook: https://fb.com/j.surowy
--  Discord: Entom#2137
+-  Discord: ug#6757
 -  jakub.surowy@uczen.zsk.poznan.pl
 
 <!---

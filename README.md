@@ -6,6 +6,8 @@
 -  Discord: ug#6757
 -  For non-important issues: jakub@surowy.fun
 -  For important issues: jakub.surowy@uczen.zsk.poznan.pl
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsurowy&show_icons=true&theme=synthwave)
 
 <!---

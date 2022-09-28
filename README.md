@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsurowy, it's so kind of you, that I can welcome you on my <b>GitHub profile</b>!
+- 👋 Hi, I’m @jsurowy and I'm very happy, that I can welcome you on my <b>GitHub profile</b>!
 - 👀 I’m interested in <b>IT engineering and OS software</b> [especially those that are directly associated with DevOps Engineering].
 - 🌱 I’m currently learning <b>DevOps Engineering</b> [mostly] - attending to Zespol Szkol Komunikacji of Hipolit Cegielski in Poznan, learning IT engineer qualifications.
 - 📫 <b>How to reach me:</b>

@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @jsurowy, it's so kind of you, that I can welcome you on my GitHub profile!
-- 👀 I’m interested in IT engineering and OS software [especially those that are directly associated with DevOps Engineering].
-- 🌱 I’m currently learning DevOps Engineering [mostly] - attending to Zespol Szkol Komunikacji im. Hipolita Cegielskiego w Poznaniu, learning IT engineer qualifications.
-- 📫 How to reach me:
--  Facebook: https://fb.com/j.surowy
--  Discord: ug#6757
--  For non-important issues: jakub@surowy.fun
--  For important issues: jakub.surowy@uczen.zsk.poznan.pl
+- 👋 Hi, I’m @jsurowy, it's so kind of you, that I can welcome you on my <b>GitHub profile</b>!
+- 👀 I’m interested in <b>IT engineering and OS software</b> [especially those that are directly associated with DevOps Engineering].
+- 🌱 I’m currently learning <b>DevOps Engineering</b> [mostly] - attending to Zespol Szkol Komunikacji im. Hipolita Cegielskiego w Poznaniu, learning IT engineer qualifications.
+- 📫 <b>How to reach me:</b>
+-  <b>Facebook:</b> https://fb.com/j.surowy
+-  <b>Discord:</b> ug#6757
+-  <b>For non-important issues:</b> jakub@surowy.fun
+-  <b>For important issues:</b> jakub.surowy@uczen.zsk.poznan.pl
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsurowy&show_icons=true&theme=synthwave)

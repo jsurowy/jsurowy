@@ -8,7 +8,7 @@
   -  **For non-important issues** reach me at <a href=mailto:jakub@surowy.space>jakub@surowy.space</a>
   -  **For important issues** reach me at <a href=mailto:jakub.surowy@uczen.zsk.poznan.pl>jakub.surowy@uczen.zsk.poznan.pl</a><br />
   
-Check out my other socials linked under the bio and have fun while browsing this profile!
+Check out my other socials linked under the bio and have fun browsing this profile!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsurowy&show_icons=true&theme=synthwave)
 

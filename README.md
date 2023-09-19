@@ -1,7 +1,7 @@
 ## About me
 - 👋 I’m [**@jsurowy**](https://github.com/jsurowy) and I'm very delighted to welcome you on my **GitHub profile**!
 - 👀 I’m interested in **cloud solutions** and **scripting**.
-- 🌱 I’m currently learning *trying to learn* **DevOps Engineering** - attending to Zespol Szkol Komunikacji in Poznan, learning IT engineer qualifications.
+- 🌱 I’m currently learning *trying to learn* **engineering based on developer operations** Also attending to Zespol Szkol Komunikacji in Poznan, preparing to pass IT engineer qualifications.
 
 - 📫 **How to reach me**:
   -  via **Discord**: ugotowany

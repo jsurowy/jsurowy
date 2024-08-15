@@ -6,7 +6,7 @@
 
 - 📫 **How to reach me**:
   -  via **Discord**: ugotowany
-  -  **For non-important issues** reach me at <a href=mailto:jakub@surowy.space>jakub@surowy.space</a>
+  -  **For non-important issues** reach me at <a href=mailto:jakub@surowy.fun>jakub@surowy.fun</a>
   -  **For important issues** reach me at <a href=mailto:jakub.surowy@uczen.zsk.poznan.pl>jakub.surowy@uczen.zsk.poznan.pl</a><br />
   
 Check out my other socials linked under the bio and have fun browsing this profile!
